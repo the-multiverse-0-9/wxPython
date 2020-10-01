@@ -1,3 +1,7 @@
+# AMAZING PYTHON TUTORIAL FOR ABSOLUTE BEGINNERS
+
+# README
+
 # wxPython in Action
 
 [wxPython](http://www.wxpython.org/) is a Python extension library for developing cross platform GUI. It is an alternative to other GUI development toolkits like [PyQt](https://riverbankcomputing.com/software/pyqt/intro), [Tkinter](https://docs.python.org/2/library/tkinter.html) etc. This repostiory contains a variety of code examples for developing different GUI elements with wxPython. 
@@ -19,7 +23,7 @@ app = App()
 app.MainLoop()
 ```
 
-## Download
+## Download From Here
 Download or fork the repository
 
 ```sh
